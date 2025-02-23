@@ -9,7 +9,6 @@ html {
 body {
 	display: flex;
 	flex-direction: column;
-	overflow-x: hidden;
 	font-family: 'Segoe UI', Verdana, sans-serif;
 }
 
