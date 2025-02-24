@@ -4,7 +4,6 @@
 html {
 	background-color: rgb(38, 40, 45);
 	overflow-x: hidden;
-	overscroll-behavior-x: none;
 }
 
 body {
@@ -178,6 +177,7 @@ p {
 		padding: 20px;
 		padding-top: 50px;
 		padding-bottom: 50px;
+		overscroll-behavior-x: none;
 	}
 	h2 {
 		text-align: center;
