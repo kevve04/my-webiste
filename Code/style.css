@@ -47,8 +47,8 @@ header {
 
 .nav_button {
 	display: flex;
-    align-items: center;
-    justify-content: center;
+    	align-items: center;
+   	 justify-content: center;
 	width: 130px;
 	height: 45px;
 	margin: 0px 5px -20px 5px;
@@ -60,6 +60,7 @@ header {
 	border: solid 2px hsl(35, 28%, 52%);
 	color: rgb(42, 32, 17);
 	border-radius: 15px 15px 0px 0px;
+	text-decoration: none;
 }
 
 .nav_button:visited {
